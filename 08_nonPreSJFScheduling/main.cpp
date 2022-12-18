@@ -1,7 +1,6 @@
 /*
 8. Write a program to implement SJF scheduling algorithm.
 
-	Author: Anshul Verma
 */
 
 #include <iostream>
